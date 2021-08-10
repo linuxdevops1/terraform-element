@@ -1,5 +1,5 @@
-access_key = "AKIAXAXYR74L6GSYWRM6"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 region = "us-east-1"
 vpc_name = "SAP-VPC"
 vpc_cidr = "50.0.0.0/16"
